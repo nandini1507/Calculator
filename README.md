@@ -16,5 +16,10 @@ It demonstrates basic programming concepts like functions, loops, conditionals, 
 1. Clone the repository:
    ```bash
    git clone https://github.com/nandini1507/Calculator.git
-### Calculator Code
-![calculator.py](
+### Screenshots
+![Screenshot](Screenshot%202025-11-13%20201909.png)
+![Screenshot](Screenshot%202025-11-13%20201932.png)
+
+### Calculator code
+'''markdown
+[View Full Code](calculator.py)
